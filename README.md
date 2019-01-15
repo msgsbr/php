@@ -1,3 +1,12 @@
-# php_apoio
+# php
 
-Modelos e exemplos especificos para alguns cenários ao longo dos trabalhos.
+Support Material and Samples
+=============================
+Materiais de Apoio e exemplos
+
+
+HTTPS
+https://github.com/msgsbr/java.git
+
+SSH
+git@github.com:msgsbr/java.git
