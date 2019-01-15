@@ -6,7 +6,6 @@ Materiais de Apoio e exemplos
 
 
 HTTPS
-https://github.com/msgsbr/java.git
-
+https://github.com/msgsbr/php_apoio.git
 SSH
-git@github.com:msgsbr/java.git
+git@github.com:msgsbr/php_apoio.git
